@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -431,5 +432,9 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #header4-0 .mbr-section-lead SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#footer1-1 P {
+  color: #ffffff;
   font-family: 'Roboto Condensed', sans-serif;
 }
